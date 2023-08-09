@@ -2,7 +2,7 @@
 ## 讲员：赵弟兄
 ## 经文：《路加福音》20章
 
-<audio controls src="./230806.mp3"></audio>
+<audio controls src="./00.230806.mp3"></audio>
 
 ![](./01.JPG)
 ![](./02.JPG)
